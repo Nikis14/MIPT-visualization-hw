@@ -29,4 +29,15 @@
 </a><br>
 
 Примеры работы: [Папка с изображениями](https://github.com/Nikis14/MIPT-visualization-hw/tree/main/hw3-labels/img)
+<hr>
+
+### Задание 4 (TSNE)
+
+Реализован алгоритм TSNE.
+
+Ноутбук: <a href="https://colab.research.google.com/github/Nikis14/MIPT-visualization-hw/blob/main/hw4-tsne/HW_4_ScatterPlot.ipynb" target="_blank" rel="nofollow">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a><br>
+
+Примеры работы: [Папка с изображениями](https://github.com/Nikis14/MIPT-visualization-hw/tree/main/hw4-tsne/img)
 
